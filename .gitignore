@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Don't accidentally commit txt files dropped into the project root folder
+Word2Vec/*.txt
